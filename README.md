@@ -1,3 +1,2 @@
-#!/bin/bash
-First shell basics
+#!/bin/bash First shell basics
 
